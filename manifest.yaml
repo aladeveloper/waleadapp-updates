@@ -24,5 +24,5 @@ element:
   send_attach_button: //*[@id="app"]/div[1]/div[1]/div[2]/div[2]/span/div[1]/span/div[1]/div/div[2]/div/div[2]/div[2]/div/div
   send_button: //*[@id="main"]/footer/div[1]/div/span[2]/div/div[2]/div[2]/button
 name: Web WhatsApp
-released: 2021.11.25
+released: 2021.11.27
 version: 2.21.21.19
